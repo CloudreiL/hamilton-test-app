@@ -1,16 +1,7 @@
-# hamilton_app
+# Flutter Hamilton musical Project 
 
-Hamilton Musical Project
+Preview
 
-## Getting Started
+![image](https://github.com/CloudreiL/hamilton-test-app/assets/124619046/e7b3017d-a79e-40da-bfb5-fa2b12c04e86)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
