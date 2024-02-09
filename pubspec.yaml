@@ -68,6 +68,13 @@ flutter:
     - assets/images/hamilton_logo.png
     - assets/images/gold_back.png
     - assets/images/black_back.jpg
+    - assets/images/ham_1.png
+    - assets/images/ham_2.png
+    - assets/images/ham_3.png
+    - assets/images/card_ham_1.png
+    - assets/images/star.png
+    - assets/images/ham_duel_1.png
+    - assets/images/ham_duel_2.png
 
 
 
